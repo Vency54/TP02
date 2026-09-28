@@ -1,0 +1,30 @@
+# Compilação
+/build/
+/dist/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/build/
+/dist/
+
+# Arquivos temporários do NetBeans
+*.tmp
+*.log
+
+# Java
+*.class
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Arquivos temporários
+*.swp
+*.swo
+*~
